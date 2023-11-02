@@ -1,0 +1,23 @@
+body{
+    color: blueviolet;
+    background-color: #F498C2;
+}
+
+.login{
+    color: aquamarine;
+    background-color: aquamarine;
+}
+
+.label{
+    color: blueviolet;
+}
+
+.form{
+    background-color: #C997C6;
+    height: 7rem;
+}
+
+.password{
+    color: red;
+    height: 4rem;
+}
